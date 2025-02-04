@@ -2,6 +2,13 @@
 
 Demonstrating MySQL and KubeArchInspect Tool
 
+## Clone the repo
+
+```
+git clone https://github.com/ajeetraina/kubearchinspect-mysql-demo
+cd kubearchinspect-mysql-demo
+```
+
 
 ## Create the ConfigMap:
 
